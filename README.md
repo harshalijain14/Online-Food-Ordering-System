@@ -1,6 +1,6 @@
 # Online-Food-Ordering-System
 
-A project made using PHP and Bootstrap focusing on the food ordering system online!It manages all the information about Food Items, Payment, Confirm Order, Food Item. The project is totally built at the administrative end and thus only the administrator is guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the Food Item, Category, Payment, Customer. It tracks all the details about the Customer, Order, Confirm Order. 
+A project made using PHP and MySQL focusing on the food ordering system online! It manages all the information about Food Items, Payment, Confirm Order, Food Item. The project is totally built at the administrative end and thus only the administrator is guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the Food Item, Category, Payment, Customer. It tracks all the details about the Customer, Order, Confirm Order. 
 
 
 ## Features
@@ -19,7 +19,7 @@ A project made using PHP and Bootstrap focusing on the food ordering system onli
 - Accuracy in work.  
 - Easy & fast retrieval of information.  
 
-## Component	Specification
+## Software	Specifications
 - Operating-System:	Windows 11
 - Language:	PHP
 - Database:	MySQL
